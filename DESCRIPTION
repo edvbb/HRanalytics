@@ -1,11 +1,10 @@
 Package: HRanalytics
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Data for training HR-analysts
 Version: 0.1.0
 Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Maintainer: The package maintainer <edvb@yandex.ru>
+Description: Data of the study of factors of turnover and efficiency of staff.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
